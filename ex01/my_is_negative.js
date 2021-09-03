@@ -1,4 +1,5 @@
 
+
 function my_is_negative(n){
 
     if (n < 0 ){
@@ -11,6 +12,6 @@ function my_is_negative(n){
 }
 
 //test cases provided will print out
-// console.log(my_is_negative(-1)); //should return 0
-// console.log(my_is_negative(1)); // should return 1
-// console.log(my_is_negative(0)); // should return 1
+// console.log(my_is_function(-1)); //should return 0
+// console.log(my_is_function(1)); // should return 1
+// console.log(my_is_function(0)); // should return 1
